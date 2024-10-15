@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
     <img src="https://img.shields.io/badge/Miro-4A8DFE?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
     <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google%20workspace&logoColor=white" alt="Google Workspace" />
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
