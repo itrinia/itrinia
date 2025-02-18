@@ -7,10 +7,12 @@
 
 
 ## Statistics
-<div>
-    <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=itrinia&theme=radical">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrinia&layout=compact&&theme=radical&langs_count=8)](https://github.com/itrinia"/>
-</div>
+<h3 align="left">Statistics</h3>
+<Center>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itrinian&show_icons=true&locale=en" alt="itrinia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itrinia&show_icons=true&locale=en&layout=compact" alt="itrinia" /></p>
+</Center>
+
 
 #### Languages, Tools, and Skills 🛠
 
