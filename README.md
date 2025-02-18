@@ -8,9 +8,9 @@
 ## Statistics
 
 <div>
-    <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=itrinia&theme=radical">
-    <!-- <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrinia&layout=compact&&theme=radical&langs_count=8)](https://github.com/itrinia"/> -->
-    <img height="154" src="https://github-readme-stats.vercel.app/api?username=itrinia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
+    <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=daudhiyaa&theme=radical">
+    <!-- <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudhiyaa&layout=compact&&theme=radical&langs_count=8)](https://github.com/daudhiyaa"/> -->
+    <img height="154" src="https://github-readme-stats.vercel.app/api?username=daudhiyaa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
 </div>
 
 #### Languages, Tools, and Skills 🛠
