@@ -7,7 +7,6 @@
 
 
 ## Statistics
-<h3 align="left">Statistics</h3>
 <Center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itrinia&show_icons=true&locale=en" alt="itrinia" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itrinia&show_icons=true&locale=en&layout=compact" alt="itrinia" /></p>
