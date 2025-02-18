@@ -5,11 +5,11 @@
     <a href="https://www.linkedin.com/in/ileene-trinia/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
 
-## Statistics
 
+## Statistics
 <div>
     <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=itrinia&theme=radical">
-    <img height="154" src="https://github-readme-stats.vercel.app/api?username=itrinia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrinia&layout=compact&&theme=radical&langs_count=8)](https://github.com/itrinia"/>
 </div>
 
 #### Languages, Tools, and Skills 🛠
